@@ -22,6 +22,6 @@ These projects are ideal for anyone learning C++ and want to see practical examp
 - One player sets a secret number, the other guesses.
 - Provides feedback on digits in correct positions and correct digits in wrong positions.
 - Demonstrates strings, loops, conditional statements, and array usage.
-- [Cpp-Basics-Projects](./Guess-The-Number)
+- [Cpp-Basics-Projects](./Guess-The-Number-Game)
 
 
