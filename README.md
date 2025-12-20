@@ -16,12 +16,12 @@ These projects are ideal for anyone learning C++ and want to see practical examp
 ### 2. Tic-Tac-Toe
 - Classic two-player game on a 3x3 grid.
 - Demonstrates 2D arrays, functions, loops, and win/tie detection logic.
-- [Cpp-Basics-Projects](./Tic-Tac-Toe-game)
+- [Cpp-Basics-Projects](./Tic-Tac-Toe game)
 
 ### 3. Guess the Number
 - One player sets a secret number, the other guesses.
 - Provides feedback on digits in correct positions and correct digits in wrong positions.
 - Demonstrates strings, loops, conditional statements, and array usage.
-- [Cpp-Basics-Projects](./Guess-the-number-game)
+- [Cpp-Basics-Projects](./Guess-the-number game)
 
 
